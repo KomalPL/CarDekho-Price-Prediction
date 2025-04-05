@@ -31,7 +31,16 @@ To build a machine learning model that predicts the price of a used car based on
   - Target: `selling_price`
 
 ---
+## 📦 Requirements
 
+- Python 3.7+
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- scikit-learn
+- Jupyter Notebook
+
+  
 ## 🧪 Machine Learning Workflow
 
 - Exploratory Data Analysis (EDA)
