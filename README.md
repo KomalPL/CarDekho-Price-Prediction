@@ -60,9 +60,8 @@ To build a machine learning model that predicts the price of a used car based on
 ## 🛠️ Setup Instructions
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/used-car-price-prediction.git
-   cd used-car-price-prediction
+   
+   git clone https://github.com/KomalPL/CarDekho-Price-Prediction
 
 2. Install dependencies:
 
