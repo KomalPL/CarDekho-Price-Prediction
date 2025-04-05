@@ -20,6 +20,14 @@ To build a machine learning model that predicts the price of a used car based on
 
 ---
 
+📦 Requirements
+> Python 3.7+
+> Pandas
+> NumPy
+> Matplotlib / Seaborn
+> scikit-learn
+> Jupyter Notebook
+
 ## 📊 Dataset Overview
 
 - **Source**: Cardekho.com
